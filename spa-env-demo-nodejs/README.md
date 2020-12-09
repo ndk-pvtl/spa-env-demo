@@ -1,4 +1,4 @@
-# Building SPA and injecting environment variables at build time
+# Building SPA and injecting environment variables using Node.js
 
 ## Installation
 `npm install`

@@ -1,0 +1,7 @@
+---
+applications:
+  - name: spa-env-demo-nodejs
+    buildpacks:
+      - nodejs_buildpack
+    memory: 128M
+    command: node server.js

@@ -1,0 +1,7 @@
+---
+applications:
+  - name: spa-env-demo-static-rproxy
+    path: artifact
+    buildpacks:
+      - nginx_buildpack
+    memory: 128M
